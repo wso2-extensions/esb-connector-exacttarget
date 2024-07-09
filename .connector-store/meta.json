@@ -1,0 +1,22 @@
+{
+    "name": "ExactTarget",
+    "owner": "WSO2",
+    "category": "Sales and Marketing",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/ExactTarget+Connector",
+    "description": "The ExactTarget connector allows you to access the ExactTarget SOAP API through the WSO2 ESB. ExactTarget is a provider of on-demand e-mail marketing software solutions. Their suite of on-demand one-to-one marketing applications enables clients to send business-critical and event-triggered communications to increase sales, optimize marketing investments and strengthen customer relationships.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "ESB 4.8.0",
+                "ESB 4.8.1",
+                "ESB 4.9.0"
+            ],
+            "isHidden": false
+        }
+    ]
+}
